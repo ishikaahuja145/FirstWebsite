@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(234, 210, 234);
+}
+#p1{
+    color:purple;
+    font-size: 3em;
+}
+h1{
+    font-family: Zen Tokyo Zoo;
+}
+#p1{
+    font-family: "courier new", "arial";
+}
+p2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+div{
+    font-size: 1.5em;
+}
+.link{
+    padding: 1%;
+}
